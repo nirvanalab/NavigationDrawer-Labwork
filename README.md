@@ -23,13 +23,6 @@ This app is intended to be the base project on top of which new features can be 
 4. Handle drawer item click events and replace the main content area with the corresponsing fragment.
 5. Add custom background for selected drawer item.
 
-## Video Walkthrough
-
-Here's a walkthrough of lab work:
-
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
